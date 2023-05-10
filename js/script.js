@@ -13,7 +13,7 @@ $(document).ready(function(){
 					$('.right__main  video')[0].playbackRate = 0.5;
 					$('.right__main  video')[1].playbackRate = 0.5;
 					$("#music")[0].playbackRate = 0.5;
-					$('.left__main>h1').text("BOBO PRINTERR GOEES BRRR")
+					$('.left__main>h1').text("100X MOONINGGG")
 				}
 				if (data.from < 30 && data.from > 40) {
 					$('.shake-constant').removeClass("shake-little");
@@ -22,7 +22,7 @@ $(document).ready(function(){
 					$('.right__main  video')[0].playbackRate = 0.8;
 					$('.right__main  video')[1].playbackRate = 0.8;
 					$("#music")[0].playbackRate = 1;
-					$('.left__main>h1').text("BOBO PRINTERR GOEES BRRR")
+					$('.left__main>h1').text("100X MOONINGGG")
 				}
 				if (data.from > 40 && data.from < 60) {
 					$('.shake-constant').removeClass("shake");
@@ -31,7 +31,7 @@ $(document).ready(function(){
 					$('.right__main  video')[0].playbackRate = 1.4;
 					$('.right__main  video')[1].playbackRate = 1.4;
 					$("#music")[0].playbackRate = 1.4;
-					$('.left__main>h1').text("BOBO PRINTERR GOEES BRRRRR");
+					$('.left__main>h1').text("100X MOONINGGGGG");
 				}
 				if (data.from > 60 && data.from < 80) {
 					$('.shake-constant').removeClass('shake-little');
@@ -40,7 +40,7 @@ $(document).ready(function(){
 					$('.right__main  video')[0].playbackRate = 1.8;
 					$('.right__main  video')[1].playbackRate = 1.8;
 					$("#music")[0].playbackRate = 1.8;
-					$('.left__main>h1').text("BOBO PRINTERR GOEES BRRRRRRRR");
+					$('.left__main>h1').text("100X MOONINGGGGGGGG");
 				}
 				if (data.from > 80 ) {
 					$('.shake-constant').removeClass('shake-little');
@@ -49,7 +49,7 @@ $(document).ready(function(){
 					$('.right__main  video')[0].playbackRate = 2.2;
 					$('.right__main  video')[1].playbackRate = 2.2;
 					$("#music")[0].playbackRate = 2.2;
-					$('.left__main>h1').text("BOBO PRINTERR GOEES BRRRRRRRRRR");
+					$('.left__main>h1').text("100X MOONINGGGGGGGGG");
 
 				}
 
